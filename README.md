@@ -4,7 +4,7 @@ AGOccupyBox
 
 
 <div align="center">
-<img width=300 src="https://raw.githubusercontent.com/Sunlixia111/AGOccupyBox/master/Image/33.JPG">
+<img width=300 src="https://raw.githubusercontent.com/Sunlixia111/AGOccupyBox/master/Image/3.JPG">
 
 <br> <br>
 
